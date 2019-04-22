@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Distic.Employability.Calculator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ECButtonBackColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">177, 127, 42</Value>
+    </Setting>
+    <Setting Name="ECOutputFrameBackColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">201, 230, 143</Value>
+    </Setting>
+    <Setting Name="ECButtonForeColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="ECButtonBackColorHover" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">177, 147, 42</Value>
+    </Setting>
+    <Setting Name="ECButtonRectSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">87, 78</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

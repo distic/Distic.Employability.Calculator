@@ -1,0 +1,123 @@
+﻿{
+  "UserInputList": [
+    {
+      "EcValue1": "Poor",
+      "EcValue2": "Public",
+      "EcValue3": "Refugee",
+      "EcValue4": "ForeignLanguage",
+      "Result": "very low employability"
+    },
+    {
+      "EcValue1": "Poor",
+      "EcValue2": "Public",
+      "EcValue3": "Refugee",
+      "EcValue4": "Arabic",
+      "Result": "low employability"
+    },
+    {
+      "EcValue1": "Poor",
+      "EcValue2": "Public",
+      "EcValue3": "National",
+      "EcValue4": "ForeignLanguage",
+      "Result": "very low employability"
+    },
+    {
+      "EcValue1": "Poor",
+      "EcValue2": "Public",
+      "EcValue3": "National",
+      "EcValue4": "Arabic",
+      "Result": "low employability"
+    }, // end of first half
+    {
+      "EcValue1": "Poor",
+      "EcValue2": "Private",
+      "EcValue3": "Refugee",
+      "EcValue4": "ForeignLanguage",
+      "Result": "low employability"
+    },
+    {
+      "EcValue1": "Poor",
+      "EcValue2": "Private",
+      "EcValue3": "Refugee",
+      "EcValue4": "Arabic",
+      "Result": "very low employability"
+    },
+    {
+      "EcValue1": "Poor",
+      "EcValue2": "Private",
+      "EcValue3": "Refugee",
+      "EcValue4": "Arabic",
+      "Result": "very low employability"
+    },
+    {
+      "EcValue1": "Poor",
+      "EcValue2": "Private",
+      "EcValue3": "National",
+      "EcValue4": "ForeignLanguage",
+      "Result": "moderate employability"
+    },
+    {
+      "EcValue1": "Poor",
+      "EcValue2": "Private",
+      "EcValue3": "National",
+      "EcValue4": "Arabic",
+      "Result": "very low employability"
+    }, // end of second half
+    {
+      "EcValue1": "Rich",
+      "EcValue2": "Public",
+      "EcValue3": "Refugee",
+      "EcValue4": "ForeignLanguage",
+      "Result": "Error! This refugee is probably not in Lebanon..."
+    },
+    {
+      "EcValue1": "Rich",
+      "EcValue2": "Public",
+      "EcValue3": "Refugee",
+      "EcValue4": "Arabic",
+      "Result": "Error! This refugee is probably not in Lebanon..."
+    },
+    {
+      "EcValue1": "Rich",
+      "EcValue2": "Public",
+      "EcValue3": "National",
+      "EcValue4": "ForeignLanguage",
+      "Result": "moderate employability"
+    },
+    {
+      "EcValue1": "Rich",
+      "EcValue2": "Public",
+      "EcValue3": "National",
+      "EcValue4": "Arabic",
+      "Result": "low employability"
+    }, // end of third half
+    {
+      "EcValue1": "Rich",
+      "EcValue2": "Private",
+      "EcValue3": "Refugee",
+      "EcValue4": "ForeignLanguage",
+      "Result": "moderate employability"
+    },
+    {
+      "EcValue1": "Rich",
+      "EcValue2": "Private",
+      "EcValue3": "Refugee",
+      "EcValue4": "Arabic",
+      "Result": "low employability"
+    },
+    {
+      "EcValue1": "Rich",
+      "EcValue2": "Private",
+      "EcValue3": "National",
+      "EcValue4": "ForeignLanguage",
+      "Result": "very high employability"
+    },
+    {
+      "EcValue1": "Rich",
+      "EcValue2": "Private",
+      "EcValue3": "National",
+      "EcValue4": "Arabic",
+      "Result": "low employability"
+    }
+  ]
+}
